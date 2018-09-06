@@ -1,0 +1,12 @@
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\OrderOfService.Business.dll
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\OrderOfService.Business.pdb
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\OrderOfService.Data.dll
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\EntityFramework.dll
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\OrderOfService.Data.pdb
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\OrderOfService.Data.dll.config
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\bin\Debug\EntityFramework.xml
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\obj\Debug\OrderOfService.Business.csprojAssemblyReference.cache
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\obj\Debug\OrderOfService.Business.csproj.CoreCompileInputs.cache
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\obj\Debug\OrderOfService.Business.csproj.CopyComplete
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\obj\Debug\OrderOfService.Business.dll
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.Business\obj\Debug\OrderOfService.Business.pdb
