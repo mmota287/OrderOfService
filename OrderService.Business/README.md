@@ -6,11 +6,11 @@ Nesse projeto, utilizamos um projeto Class Lib e vamos implementar todos as regr
 
 **Responsabilidades**
 
- - **Services:** Os services são todos os processos da nossa regra de negócio.
+ - **[Services](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Services):** Os services são todos os processos da nossa regra de negócio.
 
- - **Exceptions:** As exceções são importantes para separar exceções do sistema e exceções de negócio.
+ - **[Exceptions](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Exceptions):** As exceções são importantes para separar exceções do sistema e exceções de negócio.
  
- - **Entities:** São objetos inspirados no mundo real que possui uma identidade e tem uma linha de continuidade.
+ - **[Entities](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Entities):** São objetos inspirados no mundo real que possui uma identidade e tem uma linha de continuidade.
 
  Nessa camada é de extrema importancia dominar os conceitos de orientação objeto, abaixo tem alguns artigos sobre OOP para aprimorar seus conhecimentos.
 
