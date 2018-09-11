@@ -1,4 +1,4 @@
-﻿using OrderOfService.Data.Entities;
+﻿using OrderOfService.Business.Entities;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 

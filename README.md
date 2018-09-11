@@ -1,6 +1,10 @@
-# Ordem de Serviço
+# Arquitetura em camadas
 
-Esse projeto foi criado com intuito abordar padrões e boas praticas de projeto, como:
+Arquitetura em camadas é um padrão onde separa a aplicação por responsabilidade, com essa simples divisão se consegue facilitar a compreensão, manutenção, confiabilidade entre outros benefícios.​
 
-- Arquitetura em Camadas
-- Injeção de Dependencia com Simple Injector
+Esse projeto foi dividido em 3 camadas:
+- **OrderService.WebApi:** Camada responsavel pelas  validações e regras de negócio.
+
+- **OrderService.Business:** Camada responsavel pelas  validações e regras de negócio.
+
+- **OrderService.Data:** Camada responsavel pelas  validações e regras de negócio.

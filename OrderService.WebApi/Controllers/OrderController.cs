@@ -1,6 +1,7 @@
-﻿using OrderOfService.Business.Orders;
-using OrderOfService.Data.Entities;
-using OrderOfService.Data.Repositories;
+﻿
+using OrderOfService.Business.Entities;
+using OrderOfService.Business.Repositories.Orders;
+using OrderOfService.Business.Services;
 using System.Web.Http;
 
 namespace OrderOfService.WebApi.Controllers
@@ -9,10 +10,7 @@ namespace OrderOfService.WebApi.Controllers
     public class OrderController : ApiController
     {
         private IOrderService orderService;
-        public OrderController()
-        {
-            orderService = new OrderService(new OrderRepository(new Data.Context.OrderContext()));
-        }
+        public OrderController() => this.orderService = new OrderService(new OrderRepository(new Business.Context.OrderContext()));
 
         [Route("add")]
         [HttpPost]

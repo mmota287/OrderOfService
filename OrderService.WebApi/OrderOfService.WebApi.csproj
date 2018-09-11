@@ -119,10 +119,6 @@
       <Project>{89c5ecb8-55cf-4971-a4d4-e7c014591f6e}</Project>
       <Name>OrderOfService.Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\OrderService.Data\OrderOfService.Data.csproj">
-      <Project>{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}</Project>
-      <Name>OrderOfService.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

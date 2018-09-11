@@ -50,14 +50,11 @@ C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderSer
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\Newtonsoft.Json.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Business.dll
-C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Data.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\System.Net.Http.Formatting.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\System.Web.Http.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\System.Web.Http.WebHost.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\EntityFramework.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Business.pdb
-C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Data.pdb
-C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Data.dll.config
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\Newtonsoft.Json.xml
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\System.Net.Http.Formatting.xml
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\System.Web.Http.xml
@@ -71,3 +68,4 @@ C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderSer
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\obj\Debug\OrderOfService.WebApi.pdb
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\EntityFramework.SqlServer.dll
 C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\marcos.mota\Documents\Visual Studio 2017\Projects\OrderService\OrderService.WebApi\bin\OrderOfService.Business.dll.config

@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOfService.WebApi", "OrderService.WebApi\OrderOfService.WebApi.csproj", "{08A4830E-8F1C-4CC1-9382-29A64A0CC97F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOfService.Data", "OrderService.Data\OrderOfService.Data.csproj", "{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOfService.Business", "OrderService.Business\OrderOfService.Business.csproj", "{89C5ECB8-55CF-4971-A4D4-E7C014591F6E}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{08A4830E-8F1C-4CC1-9382-29A64A0CC97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A4830E-8F1C-4CC1-9382-29A64A0CC97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A4830E-8F1C-4CC1-9382-29A64A0CC97F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{780EE5B0-1386-4C01-BEE1-81E7BAE1BCA4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89C5ECB8-55CF-4971-A4D4-E7C014591F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89C5ECB8-55CF-4971-A4D4-E7C014591F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C5ECB8-55CF-4971-A4D4-E7C014591F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
