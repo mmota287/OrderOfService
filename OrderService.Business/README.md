@@ -29,9 +29,9 @@ Uma aplicação tem um ou mais repositórios de dados e a camada de dados tem a 
 
 Nesse projeto, utilizamos um projeto Class Lib e vamos utilizar como fonte de dados um SQL Server Database File.
 
- - **Context:** São o dominio das regras de negócio
+ - **[Context](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Context):** São o dominio das regras de negócio
  
- - **Repositories:** Os repositórios são os responsaveis por acessar e persistir os dados no banco de dados. 
+ - **[Repositories](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Repositories/Orders):** Os repositórios são os responsaveis por acessar e persistir os dados no banco de dados. 
 
 **Links:**
 
