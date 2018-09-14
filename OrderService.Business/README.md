@@ -6,11 +6,11 @@ Nesse projeto, utilizamos um projeto Class Lib e vamos implementar todos as regr
 
 **Responsabilidades**
 
- - **Services:** Os services são todos os processos da nossa regra de negócio.
+ - **[Services](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Services):** Os services são todos os processos da nossa regra de negócio.
 
- - **Exceptions:** As exceções são importantes para separar exceções do sistema e exceções de negócio.
+ - **[Exceptions](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Exceptions):** As exceções são importantes para separar exceções do sistema e exceções de negócio.
  
- - **Entities:** São objetos inspirados no mundo real que possui uma identidade e tem uma linha de continuidade.
+ - **[Entities](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Entities):** São objetos inspirados no mundo real que possui uma identidade e tem uma linha de continuidade.
 
  Nessa camada é de extrema importancia dominar os conceitos de orientação objeto, abaixo tem alguns artigos sobre OOP para aprimorar seus conhecimentos.
 
@@ -29,9 +29,9 @@ Uma aplicação tem um ou mais repositórios de dados e a camada de dados tem a 
 
 Nesse projeto, utilizamos um projeto Class Lib e vamos utilizar como fonte de dados um SQL Server Database File.
 
- - **Context:** São o dominio das regras de negócio
+ - **[Context](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Context):** São o dominio das regras de negócio
  
- - **Repositories:** Os repositórios são os responsaveis por acessar e persistir os dados no banco de dados. 
+ - **[Repositories](https://github.com/MarcosMota/OrderOfService/tree/1-ArquiteturaCamadas/OrderService.Business/Repositories/Orders):** Os repositórios são os responsaveis por acessar e persistir os dados no banco de dados. 
 
 **Links:**
 

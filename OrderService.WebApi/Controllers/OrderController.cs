@@ -10,7 +10,10 @@ namespace OrderOfService.WebApi.Controllers
     public class OrderController : ApiController
     {
         private IOrderService orderService;
-        public OrderController() => this.orderService = new OrderService(new OrderRepository(new Business.Context.OrderContext()));
+        public OrderController(IOrderService orderService)
+        {
+            this.orderService = orderService;
+        }
 
         [Route("add")]
         [HttpPost]
