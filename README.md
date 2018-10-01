@@ -15,7 +15,7 @@ A idéia geral por trás do Injetor Simples (ou de qualquer biblioteca DI) é qu
 
 Primeiramente, a aplicação deverá aderir o Princípio de Inversão de Dependência, dessa forma, teremos uma aplicação com baixo acoplamento e alta coesão.
 
-Considerando que a aplicação está nessas condições, então apenas precisamos registrar a dependencias, como feito no arquivo [DependencyConfig.cs](https://github.com/MarcosMota/OrderOfService/blob/2-InjecaoDependecia/OrderService.WebApi/App_Start/DependencyConfig.cs)
+Considerando que a aplicação está nessas condições, então apenas precisamos registrar a dependencias, como feito no arquivo [DependencyConfig.cs](https://github.com/MarcosMota/OrderOfService/blob/2-InjecaoDependecia/OrderService.WebApi/App_Start/README.md)
 
 ``` 
 container.Register<[Interface], [Concreta]>();
